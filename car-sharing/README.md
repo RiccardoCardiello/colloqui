@@ -1,5 +1,5 @@
 # CARdiello Sharing
-Modellare una REST API per la gestione di un Car Sharing
+Modellare una REST API per la gestione di un Car Sharing, dove l'utente può sceglire tra le auto disponibili e teminare il noleggio quando desidera
 
 ### Entità
 
