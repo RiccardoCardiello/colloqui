@@ -1,0 +1,1 @@
+Strutturare le classi per implementare il pattern Factory e realizzare un esempio di utilizzo
